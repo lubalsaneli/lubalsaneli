@@ -22,4 +22,4 @@
   <a href="https://www.linkedin.com/in/luciana-balsaneli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Tenho 19 anos e estou no 6° semestre de Ciências da Computação na Universidade Paulista 
+### Atualmente estudando Java Script 👀
